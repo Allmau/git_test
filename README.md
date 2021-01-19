@@ -1,2 +1,2 @@
 # git_test
-first repository
+first repository on git hub
